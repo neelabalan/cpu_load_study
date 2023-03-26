@@ -1,0 +1,14 @@
+[package]
+name = "monitor"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+sysinfo = "0.28.1"
+log = "0.4"
+env_logger = "0.9.0"
+csv = "1.1.6"
+clap = { version = "4.0.32", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+chrono = "0.4.23"

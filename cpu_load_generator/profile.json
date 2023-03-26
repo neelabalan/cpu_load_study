@@ -1,0 +1,338 @@
+[
+    {
+        "repeat": 1,
+        "cpu_num": 0,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    },
+    {
+        "repeat": 1,
+        "cpu_num": 1,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    },
+    {
+        "repeat": 1,
+        "cpu_num": 2,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    },
+    {
+        "repeat": 1,
+        "cpu_num": 3,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    },
+    {
+        "repeat": 1,
+        "cpu_num": 4,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    },
+    {
+        "repeat": 1,
+        "cpu_num": 5,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    },
+    {
+        "repeat": 1,
+        "cpu_num": 6,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    },
+    {
+        "repeat": 1,
+        "cpu_num": 7,
+        "sequence": [
+            {
+                "load": 0.1,
+                "duration_s": 60
+            },
+            {
+                "load": 0.2,
+                "duration_s": 60
+            },
+            {
+                "load": 0.3,
+                "duration_s": 60
+            },
+            {
+                "load": 0.4,
+                "duration_s": 60
+            },
+            {
+                "load": 0.5,
+                "duration_s": 60
+            },
+            {
+                "load": 0.6,
+                "duration_s": 60
+            },
+            {
+                "load": 0.7,
+                "duration_s": 60
+            },
+            {
+                "load": 0.8,
+                "duration_s": 60
+            },
+            {
+                "load": 0.9,
+                "duration_s": 60
+            }
+        ]
+    }
+]
